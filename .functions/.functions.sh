@@ -36,7 +36,7 @@ function access()
         [[ ${ret} -eq 99 ]] && return 99
 
         if [[ ${ret} -eq 0 ]]; then
-            if [[ ${inputuse} == Hater ]]; then
+            if [[ ${inputuse} == DstroX ]]; then
                 printf " Okay...$end\n"
                 sleep 1
                 break
@@ -69,7 +69,7 @@ function access()
         [[ ${ret} -eq 99 ]] && return 99
 
         if [[ ${ret} -eq 0 ]]; then
-            if [[ ${inputuse} == KoRn ]]; then
+            if [[ ${inputuse} == 1777 ]]; then
                 printf " Okay...$end\n"
                 sleep 1
                 > .sl
