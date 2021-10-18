@@ -69,7 +69,7 @@ function access()
         [[ ${ret} -eq 99 ]] && return 99
 
         if [[ ${ret} -eq 0 ]]; then
-            if [[ ${inputuse} == 1777 ]]; then
+            if [[ ${inputuse} == gratis ]]; then
                 printf " Okay...$end\n"
                 sleep 1
                 > .sl
