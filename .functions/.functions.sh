@@ -617,7 +617,7 @@ ${blue} Informe o telefone para a consulta\n ===> ${cyan}"
             sleep 0.00001
             echo " •RG: ××.×××.×××-×"
             sleep 0.00001
-            echo " •Consulta: By Clownters"
+            echo " •Consulta: By DstroX"
             sleep 0.00001
             echo " •Usuario: $user "
             sleep 0.00001
