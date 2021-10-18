@@ -152,10 +152,10 @@ function banner()
  |/____________________/"
     sleep 0.0000000001
     printf "
-  ${red}Arquivo Clownters ${end}\n"
+  ${red}Arquivo DstroX Gratuito ${end}\n"
     sleep 0.0000000001
     printf "
-   ${pink}<<< PAINEL CLOWNTERS ${date_c} >>>"
+   ${pink}<<< PAINEL DSTROX ${date_c} >>>"
     sleep 0.0000000001
     printf "
  ${green}=======================================\n"
