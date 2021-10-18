@@ -22,9 +22,9 @@
  #CLOWNTERS
 CLOWNTERS
 
-cd ..; rm -rf Clownters
+cd ..; rm -rf DstroX-Consultas
 printf "\n\e[1;33m Atualizando...\e[m"
-git clone https://github.com/mike90s15/Clownters &> /dev/null
-cd Clownters
+git clone https://github.com/DstroX1/DstroX-Consultas &> /dev/null
+cd DstroX-Consultas
 chmod +x *
 ./A1.sh
